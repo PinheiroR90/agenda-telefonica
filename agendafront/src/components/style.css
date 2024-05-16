@@ -1,0 +1,18 @@
+.btn-opt{
+    display: flex;
+}
+.btn-r{
+    margin-left: 5px;
+}
+.myheader{
+    width: 100%;
+    margin-bottom: 10px;
+    display:flex;
+}
+.lef{
+   text-align: left;
+   margin-right: auto;
+}
+.myspan{
+    margin-top: 10px;
+}
